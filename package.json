@@ -1,0 +1,9 @@
+{
+  "name": "nx-cloud-test-pnpm-catalog",
+  "version": "1.0.0",
+  "description": "Testing NX Cloud with repo using pnpm catalogs",
+  "license": "MIT",
+  "devDependencies": {
+    "nx": "22.3.1"
+  }
+}
